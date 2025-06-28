@@ -4,5 +4,4 @@ numpy
 nltk
 scikit-learn
 PyPDF2
-re
 pickle
