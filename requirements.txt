@@ -4,4 +4,3 @@ numpy
 nltk
 scikit-learn
 PyPDF2
-pickle
